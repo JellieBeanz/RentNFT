@@ -1,1 +1,1 @@
-Run by opening index.js in a live server
+Run by opening index.html in a live server
